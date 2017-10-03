@@ -1,0 +1,2 @@
+# AskMe
+An AI Chat bot from which you can ask about the important topics discussed in a business meeting and it answers your queries from its knowledge base of minutes of the meet. Different classification Algorithms were used to classify the questions asked to the chat-bot and then various NLP techniques like keyword searching, part of speech tagging and text summarization were used to answer the questions.
